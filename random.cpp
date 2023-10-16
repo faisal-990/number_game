@@ -33,7 +33,7 @@ int main()
     {
     case 1:                                         //EASY
         cout<<" ----------YOU WILL HAVE 10 TRIES TO GUESS THE CORRECT NUMBER"<<range<<"-----------"<<endl;
-        cout<<"                         ALRIGHT NOW START GUESSING                     "<<endl;
+        cout<<"\t\tALRIGHT NOW START GUESSING\t\t"<<endl;
         for(int i=1;i<=10;i++)
         {
             int guess_count=10-i;
