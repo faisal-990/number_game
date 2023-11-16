@@ -2,7 +2,7 @@
 this is  a number guessing game
 their are 3 levels in this
 easy has 10 tries
-medium has 6 tries
+medium has 6 tries this is a test edit
 hard has 3 tries
 their is a guess_counter that decrements in each iteration and when it reaches 0 you game is over
 the sec_num stores the number to be guessed
