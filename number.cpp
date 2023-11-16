@@ -44,7 +44,7 @@ int main()
                 // Handle non-integer input
                 cout << "Invalid input. Please enter a valid integer." << endl;
                 cin.clear();            // Clear the error flag
-                cin.ignore(INT_MAX, '\n'); // Discard invalid input
+
             }
 
             while(guess!=sec_num)
@@ -96,7 +96,7 @@ int main()
                 // Handle non-integer input
                 cout << "Invalid input. Please enter a valid integer." << endl;
                 cin.clear();            // Clear the error flag
-                cin.ignore(INT_MAX, '\n'); // Discard invalid input
+
             }
 
             while(guess!=sec_num && guess!='65')
@@ -145,7 +145,7 @@ int main()
                 // Handle non-integer input
                 cout << "Invalid input. Please enter a valid integer." << endl;
                 cin.clear();            // Clear the error flag
-                cin.ignore(INT_MAX, '\n'); // Discard invalid input
+
             }
 
             while(guess!=sec_num)
